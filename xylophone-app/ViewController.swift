@@ -9,21 +9,19 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    // This is a comment
-    // This is a second comment
-    // This is a third comment
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
     
-    // Link up UIButton objects to a single IBAction
-    
     @IBAction func keyPressed(_ sender: UIButton) {
         
         let buttonKey = sender.currentTitle!
         playSound(key: buttonKey)
+    }
+    
+    func playSound(key: String) {
+        
     }
 }
 
