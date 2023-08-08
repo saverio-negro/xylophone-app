@@ -11,6 +11,7 @@ class ViewController: UIViewController {
     
     // This is a comment
     // This is a second comment
+    // This is a third comment
     
     override func viewDidLoad() {
         super.viewDidLoad()
