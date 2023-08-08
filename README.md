@@ -1,9 +1,7 @@
 # Xylophone App
-<style>
-  .container {
-    display: flex;
-  }
-</style>
+<head>
+  <link rel="stylesheet" href="/xylophone-app/style.css">
+</head>
 <div id="container">
   <img src="xylophone-app/Assets.xcassets/AppIcon.appiconset/1024.png" width="300" height="300">
   <img src="xylophone-app/xylophone-app.gif">
