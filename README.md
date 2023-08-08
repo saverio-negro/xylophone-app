@@ -1,8 +1,8 @@
-# xylophone-app
+# Xylophone App
 
-![plot](xylophone-app/Assets.xcassets/AppIcon.appiconset/100.png)
+![plot](xylophone-app/Assets.xcassets/AppIcon.appiconset/1024.png)
 
-What does the Xylophone App do?
+## What does the Xylophone App do? ##
 
 Well, as the name suggests, it lets you play a virtual xylophone, duh.
 
