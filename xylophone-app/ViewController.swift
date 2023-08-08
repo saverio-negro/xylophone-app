@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     // This is a comment
+    // This is a second comment
     
     override func viewDidLoad() {
         super.viewDidLoad()
