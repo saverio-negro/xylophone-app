@@ -1,5 +1,7 @@
 # xylophone-app
 
+/xylophone-app/Assets.xcassets/AppIcon.appiconset/100.png
+
 What does the Xylophone App do?
 
 Well, as the name suggests, it lets you play a virtual xylophone, duh.
