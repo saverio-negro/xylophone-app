@@ -1,6 +1,7 @@
 # Xylophone App
 
 <img src="xylophone-app/Assets.xcassets/AppIcon.appiconset/1024.png" width="300" height="300">
+<img src="xylophone-app/xylophone-app.gif">
 
 ## What does the Xylophone App do? ##
 
