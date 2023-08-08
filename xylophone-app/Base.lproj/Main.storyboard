@@ -29,6 +29,9 @@
                                                 <buttonConfiguration key="configuration" style="plain" title="C">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="H1r-AI-1wy"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -49,6 +52,9 @@
                                                 <buttonConfiguration key="configuration" style="plain" title="D">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0vR-7E-CGs"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -69,6 +75,9 @@
                                                 <buttonConfiguration key="configuration" style="plain" title="E">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gaa-C9-Mz3"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -89,6 +98,9 @@
                                                 <buttonConfiguration key="configuration" style="plain" title="F">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eLk-7I-x7d"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -109,6 +121,9 @@
                                                 <buttonConfiguration key="configuration" style="plain" title="G">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Q30-Rd-2Vm"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -129,6 +144,9 @@
                                                 <buttonConfiguration key="configuration" style="plain" title="A">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3Vp-Q8-UEB"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -149,6 +167,9 @@
                                                 <buttonConfiguration key="configuration" style="plain" title="B">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="OJa-pI-1mZ"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>

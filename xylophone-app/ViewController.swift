@@ -17,5 +17,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    // Link up UIButton objects to a single IBAction
+    
+    @IBAction func keyPressed(_ sender: UIButton) {
+        
+        let buttonKey = sender.currentTitle!
+        playSound(key: buttonKey)
+    }
 }
 
