@@ -1,6 +1,6 @@
 # xylophone-app
 
-/xylophone-app/Assets.xcassets/AppIcon.appiconset/100.png
+![plot](xylophone-app/Assets.xcassets/AppIcon.appiconset/100.png)
 
 What does the Xylophone App do?
 
